@@ -1,0 +1,43 @@
+4 3
+Laura A1 B2 C1
+Martin C3 E3 D3
+Alberto E2 E3 E1
+Gloria I1 I2 G2
+7
+Alberto E3
+Laura A1
+Martin I1
+Laura I2
+Gloria B2
+Martin G2
+Gloria E3
+2 2
+Fran A3 B3
+Manu B3 C3
+3
+Fran B3
+Manu B3
+Fran B3
+4 4
+P1 A3 A1 A2 A4
+P2 A2 A1 A3 A4
+P3 A2 A3 A1 A4
+P4 A4 A2 A1 A3
+16
+P4 A4
+P4 A1
+P2 A1
+P3 A2
+P1 A3
+P4 A3
+P1 A1
+P3 A2
+P4 A3
+P4 A4
+P3 A1
+P1 A2
+P4 A4
+P2 A3
+P3 A4
+P3 A2
+0 0

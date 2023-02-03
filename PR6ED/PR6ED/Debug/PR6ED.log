@@ -1,0 +1,7 @@
+﻿  solution.cpp
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(144,10): error C2429: función de idioma 'Enlaces estructurados' requiere la marca de compilador '/std:c++17'
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(164): message : Vea la referencia a la creación de una instancia de la función plantilla "std::pair<bool,int> stable_and_height<int>(const BinTree<int> &)" que se está compilando
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(170): message : Vea la referencia a la creación de una instancia de la función plantilla "bool estable_altura<int>(const BinTree<int> &)" que se está compilando
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(145,10): error C2429: función de idioma 'Enlaces estructurados' requiere la marca de compilador '/std:c++17'
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(148,1): error C2440: 'return': no se puede realizar la conversión de 'initializer list' a 'std::pair<bool,int>'
+C:\Users\jorme\source\repos\PR6ED\PR6ED\solution.cpp(148,1): message : Ningún constructor ha podido aceptar el tipo de origen o bien la resolución de sobrecarga del constructor era ambigua

@@ -1,0 +1,5 @@
+﻿  solution.cpp
+  The contents of <optional> are available only with C++17 or later.
+C:\Users\jorme\source\repos\PR9ED\PR9ED\solution.cpp(658): warning C4715: 'tratar_caso': no todas las rutas de acceso de control devuelven un valor
+C:\Users\jorme\source\repos\PR9ED\PR9ED\solution.cpp(632): warning C4715: 'recursiva': no todas las rutas de acceso de control devuelven un valor
+  PR9ED.vcxproj -> C:\Users\jorme\source\repos\PR9ED\Debug\PR9ED.exe
